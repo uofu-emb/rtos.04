@@ -15,7 +15,6 @@
 **/
 
 
-#include <zephyr.h>
 #include <stdio.h>
 #include "unity_config.h"
 
